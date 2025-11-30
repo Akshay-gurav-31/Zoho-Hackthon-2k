@@ -7,6 +7,15 @@ It allows businesses to collect customer ratings, comments, and insights through
 
 ---
 
+👨‍💻 Developers
+Akshay Gurav
+
+🔗 LinkedIn: https://www.linkedin.com/in/akshay-gurav-024ba6296/
+
+Shreyash Kumar
+
+🔗 LinkedIn: https://www.linkedin.com/in/shreyash-kumar-9774b622a/
+
 ## 🚀 Features
 
 ### ⭐ Feedback Collection Bot  
