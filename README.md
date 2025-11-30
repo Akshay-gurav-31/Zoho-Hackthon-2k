@@ -1,69 +1,71 @@
 # FeedIQ - Real-time Customer Feedback System
 
-## 🏆 Zoho Hackathon Submission
+## 🏆 Zoho Hackathon Submission (Cliqtrix 2025)
 
-**FeedIQ** is a premium real-time customer feedback collection system with an analytics dashboard. It allows businesses to collect customer feedback, ratings, and valuable insights through an intuitive chatbot interface.
+**FeedIQ** is a premium real-time customer feedback collection system with an analytics dashboard.  
+It allows businesses to collect customer ratings, comments, and insights through an interactive chatbot-style interface inspired by Zoho's minimal and professional design.
+
+---
 
 ## 🚀 Features
 
-- **Interactive Feedback Bot**: Engaging chatbot interface for collecting customer feedback
-- **Real-time Analytics Dashboard**: Visualize feedback data with interactive charts and graphs
-- **Local Storage**: All data stored locally in the browser (no external database required)
-- **Responsive Design**: Works seamlessly across all devices
-- **Multi-chart Visualization**: 10+ different chart types for comprehensive data analysis
+### ⭐ Feedback Collection Bot  
+- Conversational UI  
+- Captures Name, Email, Rating, Comment, Device Info  
+- Fast and intuitive user experience
+
+### 📊 Real-time Analytics Dashboard  
+- 10+ dynamic charts  
+- Insights on rating trends, user sentiment, device distribution  
+- Modern UI with Zoho-like theme colors  
+- Export to CSV
+
+### 💾 Local Storage (No Backend Required)  
+- All feedback saved in browser localStorage  
+- Perfect for hackathon demonstration  
+- Zero setup required
+
+### 🎨 Premium UI/UX  
+- Clean, modern, Zoho-style theme  
+- Smooth animations  
+- Fully responsive
+
+---
 
 ## 🛠️ Technology Stack
 
-This project is built with:
+### **Frontend**
+- React + TypeScript  
+- Vite  
+- TailwindCSS  
+- shadcn-ui  
+- Lucide Icons  
 
-- **Frontend**: React, TypeScript, Vite
-- **UI Components**: shadcn-ui, Tailwind CSS
-- **Charts**: Recharts
-- **State Management**: React Hooks
-- **Storage**: Browser Local Storage
-- **Icons**: Lucide React
+### **Charts & Analytics**
+- Recharts  
+
+### **Storage**
+- Browser Local Storage  
+
+---
 
 ## 📦 Getting Started
 
-### Prerequisites
+### **Prerequisites**
+- Node.js  
+- npm  
 
-- Node.js & npm installed
-
-### Installation
+### **Installation**
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Akshay-gurav-31/Zoho-Hackthon-2k.git
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd Zoho-Hackthon-2k
 
 # Step 3: Install the necessary dependencies
 npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview
+# Step 4: Start the development server
 npm run dev
-```
-
-## 🎯 How It Works
-
-1. **Feedback Collection**: Customers interact with the feedback bot to provide ratings and comments
-2. **Data Storage**: All feedback is stored locally in the browser's localStorage
-3. **Real-time Dashboard**: View comprehensive analytics and insights on the dashboard
-4. **Data Export**: Export feedback data as CSV for further analysis
-
-## 👨‍💻 Developers
-
-- **Akshay Gurav** - [LinkedIn Profile](https://www.linkedin.com/in/akshay-gurav-024ba6296/)
-- **Shreyash Kumar** - [LinkedIn Profile](https://www.linkedin.com/in/shreyash-kumar-9774b622a/)
-
-## 🏁 Deployment
-
-The application can be deployed to any static hosting service that supports Node.js applications.
-
-## 🔧 Custom Domain Setup
-
-To connect a custom domain:
-1. Navigate to Project > Settings > Domains
-2. Click Connect Domain
-3. Follow the DNS configuration instructions
