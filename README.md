@@ -62,12 +62,3 @@ npm run dev
 ## 🏁 Deployment
 
 The application is deployed and can be accessed at: [https://zoho-hackthon.vercel.app/](https://zoho-hackthon.vercel.app/)
-
-The application can be deployed to any static hosting service that supports Node.js applications.
-
-## 🔧 Custom Domain Setup
-
-To connect a custom domain:
-1. Navigate to Project > Settings > Domains
-2. Click Connect Domain
-3. Follow the DNS configuration instructions
